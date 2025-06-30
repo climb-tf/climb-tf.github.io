@@ -1,5 +1,5 @@
 ---
-title: Command Mistakes
+title: Common Mistakes
 layout: default
 nav_order: 1
 parent: Getting Started
