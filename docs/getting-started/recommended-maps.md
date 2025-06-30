@@ -1,7 +1,7 @@
 ---
 title: Recommended Maps
 layout: default
-nav_order: 1
+nav_order: 3
 parent: Getting Started
 ---
 
@@ -15,31 +15,32 @@ Short beginner friendly map.
 Very beginner friendly. Forces you to know how to crouch jump correctly in the beginning.
 
 ### kz_crash
-To make it past the 3rd room requires proper air strafing and given the gimick of the room, makes it easy to learn.
+To make it past the 3rd room requires proper air strafing. Given the gimick of the room, it helps you understand how strafing in the air increases your speed.
 
 ### kz_bedoma
-The 2nd room is exclusively strafing. Use your A and D keys to increase your speed, do not hold W.
+The 2nd room is exclusively strafing. Use your A and D keys to increase your speed. Do not hold W.
 
 
 ## Good Maps for Practicing Techniques
-These maps are categorized by techniques needed.
+The maps listed are categorized by techniques needed.
 
 ## Long Jumps
 ### kz_laza_rc1
-To complete this map requires long jumping 300 units five times throughout the map.
+Completing this map requires long jumping (300hu), five times, throughout the map.
 
-## Bhops
+## Bhopping
 ### bkz_cauz_final
 ### bkz_bonus
 
 ## Ramps/Surfing/Slides
 ### kz_moondust
-To complete the ramps requires not holding crouch on the ramps, and holding it when you leave the surface of the ramp.
+Has a few sections with ramps. It's important to note that on the ramps you cannot be holding crouch. When you are leaving the ramp and in the air, then you want to crouch.
+
 ### kz_descent
 
 ## Ledgegrabs
 ### kz_cavern
-The map is very easy, however it's very good practice for (ledgegrabs)(/ledgegrab). Almost every jump you can perform a ledgegrab on.
+The map itself is very easy, however it's good a map to practice (ledgegrabs)[/ledgegrab] on. Almost every jump on the map is ledgegrab-able. 
 
 
 ## Wallstrafes
