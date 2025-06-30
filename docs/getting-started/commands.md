@@ -7,7 +7,6 @@ parent: Getting Started
 
 # Commands
 
-## `!noclip`
 
 
 ## `!mhud` (alias: `!skeys`)
@@ -21,3 +20,4 @@ The number in parentheses is the speed you had when you jumped.
 ## `!dsindicator`
 Displays the [deadstrafe](/docs/guides/tech.html#dead-strafe) period. 
 
+## `!noclip`
