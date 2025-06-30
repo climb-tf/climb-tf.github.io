@@ -1,6 +1,6 @@
 title: climb.tf wiki
 description: The TF2 KZ compendium
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs@v0.10.1
 color_scheme: dark
-
-url: https://wiki.climb.tf
+plugins:
+  - jekyll-remote-theme
