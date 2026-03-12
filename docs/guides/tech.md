@@ -65,6 +65,22 @@ Some methods on Spy:
 4. bhop
 5. crouched bhop
 
+| Class      | Speed Required |
+| Heavy      | 300.35-316.66 u/s |
+| Soldier    | 313-330 u/s |
+| Demo       | 365.67-385.52 u/s |
+| Py/Eng/Sni | 391-413 u/s |
+| Spy        | 317.92 - 440.6 u/s |
+
+
+| Dead Ringer | Speed Required |
+| Heavy       | 420.35-445.66 u/s |
+| Soldier     | 313-330 u/s |
+| Demo        | 365.67-385.52 u/s |
+| Py/Eng/Sni  | 391-413 u/s |
+| Spy         | 317.92 - 440.6 u/s |
+
+
 ##  Jumpbug
 A jump bug is unducking at the same time you touch the ground and jumping. This lets you avoid fall damage and bypass certain triggers.
 
