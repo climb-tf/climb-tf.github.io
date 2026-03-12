@@ -70,15 +70,11 @@ Some methods on Spy:
 | Soldier    | 313-330 u/s |
 | Demo       | 365.67-385.52 u/s |
 | Py/Eng/Sni | 391-413 u/s |
-| Spy        | 317.92 - 440.6 u/s |
+| Spy        | 417.92 - 440.6 u/s |
 
 
 | Dead Ringer | Speed Required |
 | Heavy       | 420.35-445.66 u/s |
-| Soldier     | 313-330 u/s |
-| Demo        | 365.67-385.52 u/s |
-| Py/Eng/Sni  | 391-413 u/s |
-| Spy         | 317.92 - 440.6 u/s |
 
 
 ##  Jumpbug
