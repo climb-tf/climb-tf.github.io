@@ -60,7 +60,8 @@ These values assume perfect edge *todo hotlink.
 | Player (standing) | 83     | 49    |
 | Player (ducking)  | 62.100 | 49    | 
 
-* From absolute 0, 62.020
+From absolute 0 (using ctapping to reach lower ground), `62.010` is the crouch height.
+
 *C-Tap is usually 32.2, but there is a height variange up to 44u*
 
 
