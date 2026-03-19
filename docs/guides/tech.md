@@ -42,10 +42,10 @@ There are 3 ways to increase your height in TF2 past the normal 72.2 unit max ju
 ### 72.9
 Performing a single crouched bunnyhop will net you an additional +0.6 units of height.
 
-### 72.6
+### 73.6
 Perform 2 bhops, the first one uncrouched, and the second one should be a crouched bhop. This will net you an additional 1.4 units of height.
 
-###  74u Jump
+###  74 Jump
 This is only possible when on classes that are able to change their max speed. This can be achieved with items that augment your speed such as, the disguise kit, dead ringer, Gloves of Running Urgently, etc...
 
 For simplicity, when referring to bhops they will be uncrouched unless explicitly stated.
