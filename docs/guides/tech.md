@@ -15,10 +15,10 @@ This page covers various techniques
 By strafing left or right while in mid-air, you gain speed. We can utilize this speed gain to increase the distance of our jumps by chaining strafes. The speed we gain in air and how fast we can strafe is determined by the air-acceleration. 
 
 ###  Important Detail: Dead Strafing
-When jumping in TF2 there is a period in the air where your air-acceleration in the air is reduced by 25%. 
+When jumping in TF2, there is a period where your acceleration in the air is reduced to 25%.
 
-- The first 4 ticks after jumping you have full air-acceleration.
-- From there on, until the apex of your jump, you have a 25% reduction of your air-acceleration. During this period, you should minimize your strafing.
+- The first 3 ticks after crouch-jumping you have full air-acceleration.
+- From there on, until the apex of your jump, you have a 75% reduction of your air-acceleration. During this period, you should minimize your strafing.
 - When you begin to fall, your air-acceleration will return to normal.
 
 ** Note: the ticks are different when your jump is affected by something else (such as launch pads)
