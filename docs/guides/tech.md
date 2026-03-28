@@ -84,3 +84,4 @@ A jump bug is unducking at the same time you touch the ground and jumping. This 
 ##  Surf ups
 ##  Ledgegrab / Glidestep
 ##  Ctaps / MJ
+Some jumps have low ceilings that are made possible or easier by jumping lower (ctapping). To ctap, jump while uncrouching. This isn't possible from a full crouch, but is possible if you briefly tap crouch without holding it down long enough for your walking speed to be reduced.
