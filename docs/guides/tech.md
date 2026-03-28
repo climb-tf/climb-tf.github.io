@@ -95,3 +95,4 @@ Very steep slopes can be scaled even if they are too tall to climb with a regula
 You ordinarily jump onto a higher platform by jumping above it and falling onto it. You can skip falling onto it by uncrouching, immediately putting you in a grounded state on the platform. Some platforms are the wrong height for this to work.
 
 ##  Ctaps / MJ
+Some jumps have low ceilings that are made possible or easier by jumping lower (ctapping). To ctap, jump while uncrouching. This isn't possible from a full crouch, but is possible if you briefly tap crouch without holding it down long enough for your walking speed to be reduced.
