@@ -81,6 +81,8 @@ Some methods on Spy:
 A jump bug is unducking at the same time you touch the ground and jumping. This lets you avoid fall damage and bypass certain triggers.
 
 ##  Surfs
+Height can be maintained and speed can be gained by strafing into sloped surfaces that cannot be stood on ("ramps"). Look slightly away from the ramp to build speed. Landing on a ramp ("boarding") abruptly loses speed. To maintain as much speed as possible, board smoothly. Unlike how it works in dedicated surf servers, massive height cannot be gained by turning into the ramp with high speed in vanilla TF2.
+
 ##  Surf ups
 ##  Ledgegrab / Glidestep
 ##  Ctaps / MJ
