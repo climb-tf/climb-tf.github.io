@@ -34,7 +34,7 @@ On ramps/slanted surfaces bordering a wall that are not moved into it can be wal
 Holding A or D (which ever key moves towards *into* the wall), jumping, continuing to hold the strafe key, and looking 4° away from the wall. This will allow you to gain speed in the air while along side a wall without strafing.
 
 ##  Crouch Wallstrafing
-While crouch, hold a strafe key, and look 4° away from the wall. This will allow you to move faster while crouching.
+While crouch walking against a wall, hold W and the strafe key that moves you towards the wall while looking roughly 8 degrees into the wall. This will allow you to move faster while crouch walking.
 
 ##  73 Jump
 There are 3 ways to increase your height in TF2 past the normal 72.2 unit max jump height. 
