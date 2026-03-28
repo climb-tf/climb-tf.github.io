@@ -83,4 +83,6 @@ A jump bug is unducking at the same time you touch the ground and jumping. This 
 ##  Surfs
 ##  Surf ups
 ##  Ledgegrab / Glidestep
+You ordinarily jump onto a higher platform by jumping above it and falling onto it. You can skip falling onto it by uncrouching, immediately putting you in a grounded state on the platform. Some platforms are the wrong height for this to work.
+
 ##  Ctaps / MJ
