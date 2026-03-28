@@ -84,5 +84,12 @@ A jump bug is unducking at the same time you touch the ground and jumping. This 
 Height can be maintained and speed can be gained by strafing into sloped surfaces that cannot be stood on ("ramps"). Look slightly away from the ramp to build speed. Landing on a ramp ("boarding") abruptly loses speed. To maintain as much speed as possible, board smoothly. Unlike how it works in dedicated surf servers, massive height cannot be gained by turning into the ramp with high speed in vanilla TF2.
 
 ##  Surf ups
+Very steep slopes can be scaled even if they are too tall to climb with a regular crouch-jump. Simply hold W and crouch-jump directly into the ones that aren't steep or tall. For harder slides:
+1. Face the slide at an angle. The optimal angle depends on the slide.
+2. Run towards the slide by holding W.
+3. Just before reaching the slide, strafe towards it and release W without moving your mouse.
+4. Hold the strafe key until you are at the top.
+5. For even more height, you can slightly flick your mouse in the opposite direction of your strafe key as you move up the ramp.
+
 ##  Ledgegrab / Glidestep
 ##  Ctaps / MJ
