@@ -39,15 +39,6 @@ After performing a jumpstat, you will see information about your jump in chat. O
 climb.tf | LJ: 309.9 | 4 Strafes (81%) | 320 / 351 Speed | 34.8 Edge | +1 W
 ```
 
-In this case, the jump was an LJ,  
-the displacement (usually imprecisely called "distance") was 309.9 hu (rounded down to the nearest tenth of a hu),  
-there were 4 strafes (mouse movements, not strafe key presses),  
-keyboard and mouse inputs were synchronized 81% of the time,  
-the pre was 320 hu/s,  
-the greatest speed reached during the jump (rounded down to the nearest whole hu/s) was 351 hu/s,  
-the jump started 34.8 hu (rounded down to the nearest tenth of a hu) from the edge of the platform,  
-and W was released 1 tick too late.  
-
 Opening the developer console reveals more information. For example:  
 
 ```
@@ -59,19 +50,6 @@ Indifferent jumped 309.9755 units with a Long Jump
   3.   77%       5.74      0.00      9       13.5°     2      0
   4.   57%       3.44      1.59      7        9.2°     2      0
 ```
-
-Some numbers in the console are more precise than the numbers in chat.  
-The console also tells you the length of the gap between the platforms you jumped between (272 hu in this case),  
-overlap, the number of ticks you pressed your left and right strafe keys at the same time for (8 in this case),  
-dead air, the number of ticks you weren't pressing any strafe keys for (1 in this case),  
-the displacement along (not across) the blocks you were jumping across (8.1 hu in this case),  
-the mean angle of your strafes (20.8 degrees in this case),  
-the height of your jump (which almost always reads 72.1 hu),  
-the number of ticks you were in the air for (which almost always reads 53),  
-the height of the platform you jumped up onto (almost always 0.0 hu),  
-and the number of ticks you spent crouched while in the air (which almost always reads 53).  
-
-In addition to information about your entire jump, there is also information about each of your strafes. Gain refers to the amount of speed gained, in hu/s, during that strafe. Loss refers to the amount of speed lost, in hu/s, during that strafe.
 
 You can view additional information if you enable distbug before jumping. To enable distbug, type !distbug in chat. You can type it again to toggle it off.
 
@@ -97,15 +75,32 @@ L: .......................▄▄▄▄▄▄▄▄▄▄▄.........▄▄▄▄
 R: ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄...........▄▄▄▄▄▄▄▄▄......▄▄▄.
 ```
 
-The displacement reported with distbug enabled is higher than the displacement recorded by the climb plugin.  
-Veer refers to deviation.  
-Fwd refers to W release.  
-Land Edge refers to how far (in hu) from the very edge of your landing block you were when you landed.  
-Jumpoff Angle refers to how much you turned counter-clockwise (in degrees) throughout your jump (the view angle at the start of your jump compared to the angle of your airpath).  
-Airpath refers to distance traveled (in the precise sense of the term) divided by displacement. The closer to 1, the better.  
-You don't need to do jumpstats forward. You can also do them backwards or sideways. Jump direction says which.  
-Efficiency refers to mouse movement speed, which can vary throughout your jump. A higher percentage is faster. 100% is optimal for gain.  
+### Jumpstat Information Explained  
 
-There is also a breakdown of your key presses and mouse movement over time. It is read from left to right. Each column of characters represents 1 tick.
+Numbers are sometimes rounded down to the nearest whole unit or tenth of a unit in some outputs. Sometimes numbers are inacurrate.  
+
+The number labeled with the type of jump is the displacement (usually imprecisely called "**distance**").  
+**Strafes** refers to the number of left or right mouse movements (not strafe key presses).  
+**Sync** refers to the percentage of the time mouse movements and strafe key presses were synchronized throughout the jump.  
+Two numbers may be displayed for speed. The first is **pre**, and the second is **max speed**.  
+**Edge** refers to the distance between where the jump started (when jump was pressed) and the edge of the LJ block.  
+**W**, or **Fwd**, refers to the number of ticks in the air before W was released.  
+**Block** refers to the length between LJ blocks jumped across.  
+**OL** stands for overlap. It is the number of ticks both strafe keys were pressed or held during.  
+**DA** stands for dead air. It is the number of ticks where a strafe key was not pressed or held.  
+**Deviation**, or **Veer**, refers to the component of displacement along (and not across) LJ blocks.  
+**Width** refers to the mean angle (in degrees) of the jump's strafes.  
+**Height** refers to the maximum distance from the ground the collision hull was.  
+**Airtime** refers to the number of ticks the jump took.  
+**Offset** refers to the height jumped up onto.  
+**Crouched** refers to the number of ticks spent crouched in the air.  
+**Gain** is the amount of speed gained during a strafe.  
+**Loss** is the amount of speed lost during a strafe.  
+**Land Edge** refers to how far (in hu) from the very edge of your landing block you were when you landed.  
+**Jumpoff Angle** refers to how much you turned counter-clockwise (in degrees) throughout your jump (the view angle at the start of your jump compared to the angle of your airpath).  
+**Airpath** refers to distance traveled (in the precise sense of the term) divided by displacement. The closer to 1, the better (though reducing airpath may require you to sacrifice on other aspects of the jump).  
+**Jump Direction** can be forwards, sideways, or backwards.  
+**Efficiency** refers to mouse movement speed, which can vary throughout your jump. A higher percentage is faster. 100% is optimal for gain.  
+There is also a breakdown of your key presses and mouse movement over time. It is read from left to right. Each column of characters represents 1 tick.  
 
 You can use all of this information to improve your jumpstats.
