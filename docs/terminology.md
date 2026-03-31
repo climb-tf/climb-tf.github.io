@@ -19,7 +19,7 @@ Bhop is also used as a synonym for perf.
 The way bkz maps are traversed is sometimes called bhopping even though it doesn't require perfs.  
 
 ## Mbh
-Mbh is a stat that involves chaining perfs on platforms of the same height.  
+Mbh, short for multi-bunnyhop, is a stat that involves chaining perfs on platforms of the same height.  
 Mbh also means any use of chaining perfs.  
 
 ## Stat
