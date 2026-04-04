@@ -96,3 +96,10 @@ You ordinarily jump onto a higher platform by jumping above it and falling onto 
 
 ##  Ctaps / MJ
 Some jumps have low ceilings that are made possible or easier by jumping lower (ctapping). To ctap, jump while uncrouching. This isn't possible from a full crouch, but is possible if you briefly tap crouch without holding it down long enough for your walking speed to be reduced.
+
+##  Edgebug
+If you would have landed on a platform between two ticks of your falling trajectory, you lose all downward speed while maintaining horizontal speed. This can make it possible or easier to clear certain jumps. In an actual game, this can be used to avoid fall damage.  
+
+Some examples of places where edgebugging is useful for 107% speed clases:  
+- The last jump on climb_luzon can be made significantly easier by edgebugging. This edgebug is very lenient because there is a small sloped surface before the drop off that you can land on.
+- The bonus on kz_testchmb requires edgebugs on the Companion Cubes. It is also noteworthy that the trigger does not cover the entire non-portal-able surface below the first Companion Cube.  
