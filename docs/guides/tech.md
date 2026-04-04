@@ -25,6 +25,9 @@ When jumping in TF2, there is a period where your acceleration in the air is red
 
 ** Note: The dead strafe period does not apply when walking off a surface without jumping. 
 
+## Bhopping
+Up to 120% of your maximum running speed can be maintained by jumping on the same tick you land on. This is useful for clearing gaps too wide to clear with a long jump.  
+
 ##  Pixel Walking
 On ramps/slanted surfaces bordering a wall that are not moved into it can be walked ontop of. There a few ways to be able to get ontop of it.
 - Look into the wall holding W and an A or D key. 
