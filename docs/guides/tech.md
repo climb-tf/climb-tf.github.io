@@ -95,4 +95,10 @@ Very steep slopes can be scaled even if they are too tall to climb with a regula
 You ordinarily jump onto a higher platform by jumping above it and falling onto it. You can skip falling onto it by uncrouching, immediately putting you in a grounded state on the platform. Some platforms are the wrong height for this to work.
 
 ##  Ctaps / MJ
-Some jumps have low ceilings that are made possible or easier by jumping lower (ctapping). To ctap, jump while uncrouching. This isn't possible from a full crouch, but is possible if you briefly tap crouch without holding it down long enough for your walking speed to be reduced.
+Some jumps have low ceilings that are made possible or easier by jumping lower (ctapping). To ctap, jump while uncrouching. This isn't possible from a full crouch, but is possible if you briefly tap crouch without holding it down long enough for your walking speed to be reduced.  
+
+##  Taunt Freeze
+Initiating a taunt instantly sets your velocity to 0. You can use this to avoid slipping off of ledges. Binding taunt (not +taunt) to scroll may help.  
+
+Taunt freezing can help jump across the spikes on kz_wardslip.  
+There are sloped surfaces that you will immediately slip off of without taunting. The first slope on kz_jollyclimb requires taunting as Demoman to not fall off (though the entire map is not beatable as Demoman).  
