@@ -95,4 +95,12 @@ Very steep slopes can be scaled even if they are too tall to climb with a regula
 You ordinarily jump onto a higher platform by jumping above it and falling onto it. You can skip falling onto it by uncrouching, immediately putting you in a grounded state on the platform. Some platforms are the wrong height for this to work.
 
 ##  Ctaps / MJ
-Some jumps have low ceilings that are made possible or easier by jumping lower (ctapping). To ctap, jump while uncrouching. This isn't possible from a full crouch, but is possible if you briefly tap crouch without holding it down long enough for your walking speed to be reduced.
+Some jumps have low ceilings that are made possible or easier by jumping lower (ctapping). To ctap, jump while uncrouching. This isn't possible from a full crouch, but is possible if you briefly tap crouch without holding it down long enough for your walking speed to be reduced.  
+
+##  Headbug
+You can activate triggers up to 20 hu above you by initiating a crouch while airborne. This is mostly useful for skips.  
+
+Some examples of places where headbugging is useful for 107% speed clases:
+- The speaker jump on climb_payload_a11_fixed can be skipped by headbugging next to one of the poles along the fence.
+- The trigger on the platform that stops your timer at the end of cosmic_q4 can be activated by holding your crouch-jump bind underneath it.
+- The 73 hu jump on kz_sector can be skipped by headbugging on the pipe.  
