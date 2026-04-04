@@ -95,4 +95,9 @@ Very steep slopes can be scaled even if they are too tall to climb with a regula
 You ordinarily jump onto a higher platform by jumping above it and falling onto it. You can skip falling onto it by uncrouching, immediately putting you in a grounded state on the platform. Some platforms are the wrong height for this to work.
 
 ##  Ctaps / MJ
-Some jumps have low ceilings that are made possible or easier by jumping lower (ctapping). To ctap, jump while uncrouching. This isn't possible from a full crouch, but is possible if you briefly tap crouch without holding it down long enough for your walking speed to be reduced.
+Some jumps have low ceilings that are made possible or easier by jumping lower (ctapping). To ctap, jump while uncrouching. This isn't possible from a full crouch, but is possible if you briefly tap crouch without holding it down long enough for your walking speed to be reduced.  
+
+##  Vertical speed redirection in water
+On 107% speed classes, swimming up with +forward, +back, or +moveup gradually accelerates you to 256.00 hu/s. Swimming up with +jump instantly changes your velocity with no acceleration period to 108.10 hu/s (assuming no horizontal velocity). The fastest way to transition from swimming down to up is to tap space briefly and continue moving up with W.  
+
+This is useful for speedrunning the bonus on kz_cavern.  
