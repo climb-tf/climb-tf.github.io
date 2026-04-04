@@ -99,3 +99,5 @@ Some jumps have low ceilings that are made possible or easier by jumping lower (
 
 ## Pixel surf
 If you land with very specific downward velocity where two flush brushes meet, you can surf as if there were a ramp there. Spots where you can do this are incredibly rare.  
+
+There is a large gap at the end of the kz_conveyance bonus that can only be cleared with a pixel surf. You can surf on the right side where the wood texture meets the dirt texture. After exiting the garage, jump once to stand on the surface extension. Stand near where the ground falls out and strafe into the wall such that you slowly inch forward. Keep strafing into the wall as you levitate across the gap.
