@@ -96,3 +96,8 @@ You ordinarily jump onto a higher platform by jumping above it and falling onto 
 
 ##  Ctaps / MJ
 Some jumps have low ceilings that are made possible or easier by jumping lower (ctapping). To ctap, jump while uncrouching. This isn't possible from a full crouch, but is possible if you briefly tap crouch without holding it down long enough for your walking speed to be reduced.
+
+##  Rampslide
+If you have enough horizontal velocity going towards a ramp that you can ordinarily stand on without surfing, you will glide up the ramp with no friction.  
+
+A rampslide is needed at the end of the first buffed speed section on climb_eientei.
