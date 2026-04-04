@@ -31,6 +31,19 @@ A WJ is a jump from a perf hit after falling (not jumping) from at most 64 hu.
 You can find 64 hu tall platforms on kz_baxter_tf2.
 
 ### Jumpbug/JB  
+At a specific height above a platform, you can uncrouch while airborne and jump on the exact same tick. That is a JB.  
+
+Most players choose to use a bind to make the tick-perfect timing easier. There are several different versions of JB binds. This is one of them:  
+```
+alias jumpbug "+duck; bind space +jumpbugjump";
+alias +jumpbugjump "-duck; +jump;";
+alias -jumpbugjump "-jump; bind space +jump";
+bind MOUSE2 jumpbug;
+```
+
+For a good JB with this bind, run at full speed, tap a key bound to crouch-jump, right-click once while strafing to gain speed, press space on the right tick, begin holding crouch, strafe back and forth to gain speed, and land crouched.  
+
+Jumpbugs are only possible from certain heights. For the stat, the first jump, the tick-perfect jump, and the landing all have to be on platforms of the same height.  
 
 ## Jumpstat Information
 After performing a jumpstat, you will see information about your jump in chat. Only you and people spectating you can see information about your jump. For example:  
