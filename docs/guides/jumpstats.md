@@ -80,7 +80,7 @@ R: ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄........
 Numbers are sometimes rounded down to the nearest whole unit or tenth of a unit in some outputs. Sometimes numbers are inacurrate.  
 
 The number labeled with the type of jump is the displacement (usually imprecisely called "**distance**").  
-**Strafes** refers to the number of left or right mouse movements (not strafe key presses).  
+**Strafes** is defined differently by the climb plugin and distbug. In the climb plugin, it is the number of horizontal mouse movements. In distbug, it is the number of strafe key presses.  
 **Sync** refers to the percentage of the time mouse movements and strafe key presses were synchronized throughout the jump.  
 Two numbers may be displayed for speed. The first is **pre**, and the second is **max speed**.  
 **Edge** refers to the distance between where the jump started (when jump was pressed) and the edge of the LJ block.  
