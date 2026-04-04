@@ -96,3 +96,6 @@ You ordinarily jump onto a higher platform by jumping above it and falling onto 
 
 ##  Ctaps / MJ
 Some jumps have low ceilings that are made possible or easier by jumping lower (ctapping). To ctap, jump while uncrouching. This isn't possible from a full crouch, but is possible if you briefly tap crouch without holding it down long enough for your walking speed to be reduced.
+
+## Pixel surf
+If you land with very specific downward velocity where two flush brushes meet, you can surf as if there were a ramp there. Spots where you can do this are incredibly rare.  
