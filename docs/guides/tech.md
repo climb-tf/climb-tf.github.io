@@ -102,4 +102,5 @@ If you would have landed on a platform between two ticks of your falling traject
 
 Some examples of places where edgebugging is useful for 107% speed clases:  
 - The last jump on climb_luzon can be made significantly easier by edgebugging. This edgebug is very lenient because there is a small sloped surface before the drop off that you can land on.
-- The bonus on kz_testchmb requires edgebugs on the Companion Cubes. It is also noteworthy that the trigger does not cover the entire non-portal-able surface below the first Companion Cube.  
+- The bonus on kz_testchmb requires edgebugs on the Companion Cubes. It is also noteworthy that the trigger does not cover the entire non-portal-able surface below the first Companion Cube.
+- An edgebug is needed for the end of the bonus on climb_eientei.  
