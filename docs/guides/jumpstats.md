@@ -36,7 +36,9 @@ For a good MBH, run at full speed, jump, strafe for speed, do an uncrouched perf
 ### WeirdJump/WJ  
 A WJ is a jump from a perf hit after falling (not jumping) from at most 64 hu.
 
-You can find 64 hu tall platforms on kz_baxter_tf2.
+You can find 64 hu tall platforms on kz_baxter_tf2.  
+
+For a good WJ, run off of a platform, release W the instant you are airborne and start strafing to build speed, do a crouch-jump the tick you hit the ground, strafe back and forth to build speed, and land crouched.  
 
 ### Jumpbug/JB  
 At a specific height above a platform, you can uncrouch while airborne and jump on the exact same tick. That is a JB.  
