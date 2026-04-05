@@ -189,6 +189,14 @@ Another use of ctaps is to allow you to fit through short doorways. Usually when
 
 The bonus on kz_conveyance has a garage door that can only be crouched under if you sink into the surface extension. Ctap 5 times in place to fit underneath. Ctapping 6 times also works, but a 7th ctap will put you back on top of the surface extension.  
 
+##  Edgebug
+If you would have landed on a platform between two ticks of your falling trajectory, you lose all downward speed while maintaining horizontal speed. This can make it possible or easier to clear certain jumps. In an actual game, this can be used to avoid fall damage.  
+
+Some examples of places where edgebugging is useful for 107% speed clases:  
+- The last jump on climb_luzon can be made significantly easier by edgebugging. This edgebug is very lenient because there is a small sloped surface before the drop off that you can land on.
+- The bonus on kz_testchmb requires edgebugs on the Companion Cubes. It is also noteworthy that the trigger does not cover the entire non-portal-able surface below the first Companion Cube.
+- An edgebug is needed for the end of the bonus on climb_eientei.  
+
 ##  Headbug
 You can activate triggers up to 20 hu above you by initiating a crouch while airborne. This is mostly useful for skips.  
 
