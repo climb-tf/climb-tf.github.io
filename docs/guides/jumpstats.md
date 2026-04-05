@@ -21,9 +21,17 @@ A bhop is a jump done immediately after landing another jump that starts and end
 For a good bhop, run at full speed, crouch-jump, build speed by strafing, crouch-jump on the exact tick you land, strafe back and forth to build speed, and land while crouched.
 
 ### MultiBunnyhop/MBH  
-You can use the fact that your speed is maintained if you jump on the exact tick you land on to chain bhops together for even more distance. That is an MBH.
+You can use the fact that your speed is maintained if you jump on the exact tick you land on to chain perfs together for even more distance. That is an MBH.
 
-You are likely to reach the limit of how much speed you can maintain after just two perfs. Your speed will be reduced to 120% of your maximum walking speed if it is faster than that when you hit a perf. With a single bhop, this is only a concern on Heavy.
+You are likely to reach the limit of how much speed you can maintain after just two perfs. Your speed will be reduced to 120% of your maximum walking speed if it is faster than that when you hit a perf. With a single bhop, this is only a concern on Heavy.  
+
+Doing the first perf uncrouched and the second perf as a crouch-jump gives you more height than you would get doing both perfs crouched or uncrouched. You can bind scrolling up or down to jumping to make timing uncrouched perfs more consistent. For example:  
+```
+bind MWHEELDOWN +jump;
+```
+Binding scroll to crouch-jump is not useful. You must time your key press.  
+
+For a good MBH, run at full speed, jump, strafe for speed, do an uncrouched perf, strafe to max out speed, do a crouched perf, strafe back and forth to build speed, and land crouched. Even though pre is going to be the same regardless of the height you jump from, the stat only records if all three jumps and the landing are from the same height.  
 
 ### WeirdJump/WJ  
 A WJ is a jump from a perf hit after falling (not jumping) from at most 64 hu.
