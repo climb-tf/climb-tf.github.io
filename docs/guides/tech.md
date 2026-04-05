@@ -189,6 +189,12 @@ Another use of ctaps is to allow you to fit through short doorways. Usually when
 
 The bonus on kz_conveyance has a garage door that can only be crouched under if you sink into the surface extension. Ctap 5 times in place to fit underneath. Ctapping 6 times also works, but a 7th ctap will put you back on top of the surface extension.  
 
+##  Taunt Freeze
+Initiating a taunt instantly sets your velocity to 0. You can use this to avoid slipping off of ledges. Binding taunt (not +taunt) to scroll may help.  
+
+Taunt freezing can help jump across the spikes on kz_wardslip.  
+There are sloped surfaces that you will immediately slip off of without taunting. The first slope on kz_jollyclimb requires taunting as Demoman to not fall off (though the entire map is not beatable as Demoman).  
+
 ##  Rampslide
 If you have enough horizontal velocity going towards a ramp that you can ordinarily stand on without surfing, you will glide up the ramp with no friction.  
 
