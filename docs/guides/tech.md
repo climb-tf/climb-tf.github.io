@@ -47,6 +47,11 @@ Holding A or D (which ever key moves towards *into* the wall), jumping, continui
 ##  Crouch Wallstrafing
 While crouch walking against a wall, hold W and the strafe key that moves you towards the wall while looking roughly 8 degrees into the wall. This will allow you to move faster while crouch walking.
 
+##  Crouched Prestrafing
+When crouch walking forward with no wall to strafe against, you can spam A and D to increase your speed.  
+
+This is useful at the end of kz_colors_v2_tf2.  
+
 ##  73 Jump
 There are 3 ways to increase your height in TF2 past the normal 72.2 unit max jump height. 
 
