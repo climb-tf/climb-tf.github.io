@@ -25,6 +25,17 @@ When jumping in TF2, there is a period where your acceleration in the air is red
 
 ** Note: The dead strafe period does not apply when walking off a surface without jumping. 
 
+## Bhopping
+Up to 120% of your maximum running speed can be maintained by jumping on the same tick you land on. This is useful for clearing gaps too wide to clear with a long jump.  
+
+Some examples of places where bhopping is useful for 107% speed clases:  
+- A 306 hu gap on cosmic_q4 is easier to clear with a bhop than with a long jump.
+- A bhop on a slope is needed to complete kz_frostline.
+- Bhopping is used extensively when completing kz_oradon.
+- Some jumps on kz_slyvan require bhopping.
+- Some jumps on kz_mantle, including a 330 hu gap, require bhopping.
+- There are optional skips that can only be done with bhops on kz_abydos, kz_j2s_tetris_tf2, kz_colors_vs_tf2, climb_payload_a11_fixed, and kz_moondust.  
+
 ##  Pixel Walking
 On ramps/slanted surfaces bordering a wall that are not moved into it can be walked ontop of. There a few ways to be able to get ontop of it.
 - Look into the wall holding W and an A or D key. 
