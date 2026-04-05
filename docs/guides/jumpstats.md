@@ -21,16 +21,39 @@ A bhop is a jump done immediately after landing another jump that starts and end
 For a good bhop, run at full speed, crouch-jump, build speed by strafing, crouch-jump on the exact tick you land, strafe back and forth to build speed, and land while crouched.
 
 ### MultiBunnyhop/MBH  
-You can use the fact that your speed is maintained if you jump on the exact tick you land on to chain bhops together for even more distance. That is an MBH.
+You can use the fact that your speed is maintained if you jump on the exact tick you land on to chain perfs together for even more distance. That is an MBH.
 
-You are likely to reach the limit of how much speed you can maintain after just two perfs. Your speed will be reduced to 120% of your maximum walking speed if it is faster than that when you hit a perf. With a single bhop, this is only a concern on Heavy.
+You are likely to reach the limit of how much speed you can maintain after just two perfs. Your speed will be reduced to 120% of your maximum walking speed if it is faster than that when you hit a perf. With a single bhop, this is only a concern on Heavy.  
+
+Doing the first perf uncrouched and the second perf as a crouch-jump gives you more height than you would get doing both perfs crouched or uncrouched. You can bind scrolling up or down to jumping to make timing uncrouched perfs more consistent. For example:  
+```
+bind MWHEELDOWN +jump;
+```
+Binding scroll to crouch-jump is not useful. You must time your key press.  
+
+For a good MBH, run at full speed, jump, strafe for speed, do an uncrouched perf, strafe to max out speed, do a crouched perf, strafe back and forth to build speed, and land crouched. Even though pre is going to be the same regardless of the height you jump from, the stat only records if all three jumps and the landing are from the same height.  
 
 ### WeirdJump/WJ  
 A WJ is a jump from a perf hit after falling (not jumping) from at most 64 hu.
 
-You can find 64 hu tall platforms on kz_baxter_tf2.
+You can find 64 hu tall platforms on kz_baxter_tf2.  
+
+For a good WJ, run off of a platform, release W the instant you are airborne and start strafing to build speed, do a crouch-jump the tick you hit the ground, strafe back and forth to build speed, and land crouched.  
 
 ### Jumpbug/JB  
+At a specific height above a platform, you can uncrouch while airborne and jump on the exact same tick. That is a JB.  
+
+Most players choose to use a bind to make the tick-perfect timing easier. There are several different versions of JB binds. This is one of them:  
+```
+alias jumpbug "+duck; bind space +jumpbugjump";
+alias +jumpbugjump "-duck; +jump;";
+alias -jumpbugjump "-jump; bind space +jump";
+bind MOUSE2 jumpbug;
+```
+
+For a good JB with this bind, run at full speed, tap a key bound to crouch-jump, right-click once while strafing to gain speed, press space on the right tick, begin holding crouch, strafe back and forth to gain speed, and land crouched.  
+
+Jumpbugs are only possible from certain heights. For the stat, the first jump, the tick-perfect jump, and the landing all have to be on platforms of the same height.  
 
 ## Jumpstat Information
 After performing a jumpstat, you will see information about your jump in chat. Only you and people spectating you can see information about your jump. For example:  
@@ -80,7 +103,7 @@ R: ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄........
 Numbers are sometimes rounded down to the nearest whole unit or tenth of a unit in some outputs. Sometimes numbers are inacurrate.  
 
 The number labeled with the type of jump is the displacement (usually imprecisely called "**distance**").  
-**Strafes** refers to the number of left or right mouse movements (not strafe key presses).  
+**Strafes** is defined differently by the climb plugin and distbug. In the climb plugin, it is the number of horizontal mouse movements. In distbug, it is the number of strafe key presses.  
 **Sync** refers to the percentage of the time mouse movements and strafe key presses were synchronized throughout the jump.  
 Two numbers may be displayed for speed. The first is **pre**, and the second is **max speed**.  
 **Edge** refers to the distance between where the jump started (when jump was pressed) and the edge of the LJ block.  
