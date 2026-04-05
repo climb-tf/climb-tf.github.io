@@ -189,6 +189,11 @@ Another use of ctaps is to allow you to fit through short doorways. Usually when
 
 The bonus on kz_conveyance has a garage door that can only be crouched under if you sink into the surface extension. Ctap 5 times in place to fit underneath. Ctapping 6 times also works, but a 7th ctap will put you back on top of the surface extension.  
 
+##  Rampslide
+If you have enough horizontal velocity going towards a ramp that you can ordinarily stand on without surfing, you will glide up the ramp with no friction.  
+
+A rampslide is needed at the end of the first buffed speed section on climb_eientei.
+
 ##  Edgebug
 If you would have landed on a platform between two ticks of your falling trajectory, you lose all downward speed while maintaining horizontal speed. This can make it possible or easier to clear certain jumps. In an actual game, this can be used to avoid fall damage.  
 
