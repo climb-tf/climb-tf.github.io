@@ -179,6 +179,16 @@ Some examples of places where glidesteps are useful:
 ##  Ctaps / MJ
 Some jumps have low ceilings that are made possible or easier by jumping lower (ctapping). To ctap, jump while uncrouching. This isn't possible from a full crouch, but is possible if you briefly tap crouch without holding it down long enough for your walking speed to be reduced.  
 
+Some examples of places where ctapping is useful for 107% speed clases:  
+- Immediately before the last room on kz_height_a4, there are some jumps with low ceilings that can be more consistent to ctap.
+- A jump on climb_luzon takes a ctap to clear.
+- Some jumps on kz_colors_v2_tf2 are made easier by ctapping.
+- There is a jump on kz_slyvan done by ctapping and regrabbing crouch as you strafe under an overhang.
+
+Another use of ctaps is to allow you to fit through short doorways. Usually when you stand on a platform, you are actually standing on a very thin surface extension on top of the platform. By ctapping on this surface extension, you land closer to the actual platform. You can repeat this to get even closer to the actual platform. Ctapping six times in a row gets you all the way through the surface extension. Ctapping a seventh time places you back on top of the surface extension. Doing a normal jump will put you back on the surface extension regardless of how many ctaps you've done.  
+
+The bonus on kz_conveyance has a garage door that can only be crouched under if you sink into the surface extension. Ctap 5 times in place to fit underneath. Ctapping 6 times also works, but a 7th ctap will put you back on top of the surface extension.  
+
 ##  Headbug
 You can activate triggers up to 20 hu above you by initiating a crouch while airborne. This is mostly useful for skips.  
 
