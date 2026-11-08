@@ -51,6 +51,8 @@ On ramps/slanted surfaces bordering a wall that are not moved into it can be wal
 - Look into the wall holding W and an A or D key. 
 - Looking at 4 degree angle holding A or D.
 
+As of October 1st, 2026, pixel walking was largely patched, making it impossible or much more difficult in most spots on official maps. Pixel walking works as it did before the patch on servers with sv_wallbug enabled. The setting is disabled on Casual servers. It is enabled on the climb.tf servers, Uncletopia servers, servers running the ETF2L config, and servers running the RGL config.
+
 Some examples of places where pixel walking is useful:  
 - There are pixel walks towards the beginning of climb_luzon.
 - There is a skip at the end of kz_outsideday that involves jumping from the top of the ramp.
